@@ -1,0 +1,2 @@
+# SimulatoreShellLinux
+progetto scolastico
